@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: HelloShader
-  m_Shader: {fileID: 4800000, guid: 37d09a0bed58c6846a4e57c0f9f16a88, type: 3}
+  m_Shader: {fileID: 4800000, guid: 8b563c4a15765004f92ce17c10c48728, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -54,6 +54,14 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _myCube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _myTex:
+        m_Texture: {fileID: 2800000, guid: a3dce21597245d54aa32c48d3eab978c, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BumpScale: 1
     - _Cutoff: 0.5
@@ -72,9 +80,13 @@ Material:
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
+    - _myFloat: 0.5
+    - _myRange: 0.92
     m_Colors:
     - _AmbientColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 0.091, g: 0, b: 0.68275833, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _myColor: {r: 0.7075472, g: 0.1702118, b: 0.1702118, a: 1}
     - _myColour: {r: 0.47702488, g: 0.2787469, b: 0.6792453, a: 1}
     - _myEmission: {r: 0.46226418, g: 0.13737096, b: 0.13737096, a: 1}
+    - _myVector: {r: 0.5, g: 1, b: 1, a: 1}

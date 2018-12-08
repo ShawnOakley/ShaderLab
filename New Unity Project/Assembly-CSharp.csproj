@@ -61,7 +61,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\NormalPlay.cs" />
     <Compile Include="Assets\NormalPlay.cs\NormalPlay.cs" />
     <None Include="Assets\PropertiesChallenge1.shader" />
     <None Include="Assets\PropertiesChallenge3.shader" />
