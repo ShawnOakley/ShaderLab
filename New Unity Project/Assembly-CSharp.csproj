@@ -63,8 +63,10 @@
   <ItemGroup>
     <Compile Include="Assets\NormalPlay.cs\NormalPlay.cs" />
     <None Include="Assets\PropertiesChallenge1.shader" />
+    <None Include="Assets\RimShader\Rim.shader" />
     <None Include="Assets\PropertiesChallenge3.shader" />
     <None Include="Assets\UseProperties 1.shader" />
+    <None Include="Assets\BumpedRef\BumpRefChallenge.shader" />
     <None Include="Assets\PropertiesChallenge2.shader\PropertiesChallenge2.shader" />
     <None Include="Assets\BumpDiffuse.shader" />
     <None Include="Assets\PropertiesChallenge1.shader\PropertiesChallenge1.shader" />
@@ -73,9 +75,11 @@
     <None Include="Assets\UseProperties.shader" />
     <None Include="Assets\PropertiesChallenge3.shader\PropertiesChallenge3.shader" />
     <None Include="Assets\PropertiesChallenge4.shader" />
+    <None Include="Assets\BumpedEnv\BumpedEnv.shader" />
     <None Include="Assets\PropertiesChallenge2.shader" />
     <None Include="Assets\PropertiesChallenge4.shader\PropertiesChallenge4.shader" />
     <None Include="Assets\BumpDiffuse.shader\BumpDiffuse.shader" />
+    <None Include="Assets\LogicalCutoffShader\Cutoff.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Shawn/ShaderLab/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
