@@ -61,21 +61,40 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Decal\DecalOnOff.cs" />
     <Compile Include="Assets\NormalPlay.cs\NormalPlay.cs" />
     <None Include="Assets\PropertiesChallenge1.shader" />
+    <None Include="Assets\StencilBuffer\BumpDiffuseStencil.shader" />
     <None Include="Assets\RimShader\Rim.shader" />
     <None Include="Assets\PropertiesChallenge3.shader" />
+    <None Include="Assets\StencilBuffer\Hole.shader" />
     <None Include="Assets\LeavesShader\Leaves.shader" />
+    <None Include="Assets\Plasma\Plasma.shader" />
     <None Include="Assets\BlinnLighting\ToonRamp.shader" />
     <None Include="Assets\Hologram\Hologram.shader" />
+    <None Include="Assets\VertexFragment\VFDiffuseShadows.shader" />
+    <None Include="Assets\StencilBuffer\StencilWindow.shader" />
+    <None Include="Assets\VertexFragment\VFColouredMat.shader" />
     <None Include="Assets\UseProperties 1.shader" />
+    <None Include="Assets\VertexExtrusion\Extrude.shader" />
+    <None Include="Assets\Glass\Glass 1.shader" />
     <None Include="Assets\BumpedRef\BumpRefChallenge.shader" />
+    <None Include="Assets\Plasma\VFPlasma.shader" />
+    <None Include="Assets\Outlines\SimpleOutline.shader" />
     <None Include="Assets\PropertiesChallenge2.shader\PropertiesChallenge2.shader" />
     <None Include="Assets\CutoffWithDiffuse\CutoffWithDiffuse.shader" />
+    <None Include="Assets\StencilBuffer\Wall.shader" />
+    <None Include="Assets\VertexFragment\VFDiffuse.shader" />
+    <None Include="Assets\LogicalCutoffShader\StencilWindow.shader" />
+    <None Include="Assets\Waves\Waves.shader" />
     <None Include="Assets\BumpDiffuse.shader" />
     <None Include="Assets\PropertiesChallenge1.shader\PropertiesChallenge1.shader" />
+    <None Include="Assets\Glass\Glass.shader" />
     <None Include="Assets\UseProperties 1.shader\UseProperties.shader" />
+    <None Include="Assets\LogicalCutoffShader\BumpDiffuseStencil.shader" />
     <None Include="Assets\MyFirstShader.shader" />
+    <None Include="Assets\Outlines\AdOutline.shader" />
+    <None Include="Assets\VertexFragment\VFDiffuseColouredShadows.shader" />
     <None Include="Assets\UseProperties.shader" />
     <None Include="Assets\PropertiesChallenge3.shader\PropertiesChallenge3.shader" />
     <None Include="Assets\PropertiesChallenge4.shader" />
@@ -84,9 +103,14 @@
     <None Include="Assets\ToonRamp\ToonRampAlbedo.shader" />
     <None Include="Assets\PropertiesChallenge4.shader\PropertiesChallenge4.shader" />
     <None Include="Assets\BumpDiffuse.shader\BumpDiffuse.shader" />
+    <None Include="Assets\UVScrolling\UVScroll.shader" />
+    <None Include="Assets\UVScrolling\UVScrollWaterWithWaves.shader" />
+    <None Include="Assets\VertexFragment\VFMat.shader" />
     <None Include="Assets\BlinnLighting\Basic.shader" />
     <None Include="Assets\LogicalCutoffShader\Cutoff.shader" />
+    <None Include="Assets\UVScrolling\UVScrollWater.shader" />
     <None Include="Assets\BlinnLighting\BasicBlinn.shader" />
+    <None Include="Assets\Decal\BasicTextureBlend.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Shawn/ShaderLab/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
