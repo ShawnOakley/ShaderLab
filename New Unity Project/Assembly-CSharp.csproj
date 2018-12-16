@@ -65,7 +65,9 @@
     <None Include="Assets\PropertiesChallenge1.shader" />
     <None Include="Assets\RimShader\Rim.shader" />
     <None Include="Assets\PropertiesChallenge3.shader" />
+    <None Include="Assets\LeavesShader\Leaves.shader" />
     <None Include="Assets\BlinnLighting\ToonRamp.shader" />
+    <None Include="Assets\Hologram\Hologram.shader" />
     <None Include="Assets\UseProperties 1.shader" />
     <None Include="Assets\BumpedRef\BumpRefChallenge.shader" />
     <None Include="Assets\PropertiesChallenge2.shader\PropertiesChallenge2.shader" />
