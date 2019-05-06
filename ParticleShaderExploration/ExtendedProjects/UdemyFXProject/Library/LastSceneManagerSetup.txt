@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/First_Effect/DemoScene.unity
+- path: Assets/First_Effect/ImplementationScene.unity
   isLoaded: 1
   isActive: 1
