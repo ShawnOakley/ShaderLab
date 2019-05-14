@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/First_Effect/ImpScene2.unity
+- path: Assets/Second_Effect/PillarOfLight.unity
   isLoaded: 1
   isActive: 1
