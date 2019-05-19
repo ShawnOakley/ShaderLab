@@ -1,0 +1,22 @@
+Adobe After Effects v15.0 Windows 64 render log for project “Custom.aep”
+
+Rendering started on 5/18/2019 at 10:45:20 PM
+
+  5/18/2019 10:45:20 PM: Starting composition “Comp 1”.
+
+  Output To: C:\Users\Shawn\ShaderLab\ParticleShaderExploration\ExtendedProjects\UdemyFXProject\Assets\Third_Effect\AE_assets\ProfileFlash\MuzzleFlashProfile_[#####].png    5/18/2019 10:45:20 PM: Finished composition “Comp 1”.
+
+
+  5/18/2019 10:45:20 PM: Starting composition “ForwardFlash”.
+
+  Output To: C:\Users\Shawn\ShaderLab\ParticleShaderExploration\ExtendedProjects\UdemyFXProject\Assets\Third_Effect\AE_assets\ForwardFlash\ForwardFlash_[#####].png    5/18/2019 10:45:20 PM: Finished composition “ForwardFlash”.
+
+
+  5/18/2019 10:45:20 PM: Starting composition “Comp 2”.
+
+  Output To: C:\Users\Shawn\ShaderLab\ParticleShaderExploration\ExtendedProjects\UdemyFXProject\Assets\Third_Effect\AE_assets\Comp 2\Comp 2_[#####].png    5/18/2019 10:45:21 PM: Finished composition “Comp 2”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 5/18/2019 at 10:45:21 PM
+
